@@ -20,5 +20,31 @@ namespace BinarySearchTree
                 left = null;
                 right = null;
             }
+        }
+
+        public void Add(T data)
+        {
+
+        }
+
+        public void AddArray(T[] data)
+        {
+
+        }
+
+        public T[] ReturnInOrderArray()
+        {
+            return null;
+        }
+
+        public T[] ReturnPreOrderArray()
+        {
+            return null;
+        }
+
+        public T[] ReturnPostOrderArray()
+        {
+            return null;
+        }
     }
 }
